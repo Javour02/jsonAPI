@@ -1,16 +1,29 @@
 {
     "posts": [
       {
-        "id": 1,
-        "title": "Post 1"
+        "nombre": "Pollo",
+        "descripcion": "El alimento mas nutritivo",
+        "Stock": 5
       },
       {
-        "id": 2,
-        "title": "Post 2"
+        "nombre": "Carne",
+        "descripcion": "Que rica la carne",
+        "Stock": 10
       },
       {
-        "id": 3,
-        "title": "Post 3"
+        "nombre": "Pescado",
+        "descripcion": "Proteina de los peces",
+        "Stock": 8
+      },
+      {
+        "nombre": "Lechuga",
+        "descripcion": "Verdura con forma de pelota",
+        "Stock": 2
+      },
+      {
+        "nombre": "Tomate",
+        "descripcion": "El vegetal Rojo!",
+        "Stock": 5
       }
     ],
     "comments": [
