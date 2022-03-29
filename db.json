@@ -22,9 +22,8 @@
             "descripcion": "El vegetal Rojo!",
             "Stock": 5
         }
-    ]
-    },
-    {"posts2":[
+    ],
+    "posts2":[
         {
             "nombre": "Cilantro",
             "descripcion": "Para la sopa :)",
@@ -46,6 +45,6 @@
             "descripcion": "Lo mas divertido para expresar tu creatividad",
             "Stock": 5
         }
-    ]
+      ]
     }
 ]
