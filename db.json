@@ -1,4 +1,9 @@
 {"profile": {
     "name": "typicode"
-}
+},
+"posts":[
+    {
+        "name": "nombre"
+    }
+]
 }
