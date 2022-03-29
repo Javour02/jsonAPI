@@ -2,7 +2,9 @@
     "posts":[
         {
             "id": 1,
-            "name": "nombre"
+            "nombre": "Carne",
+            "descripcion": "Que rica la carne",
+            "Stock": 10
         }
     ],
     "profile": {
