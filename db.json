@@ -1,10 +1,11 @@
-{"profile": {
+{
+    "posts":[
+        {
+            "id": 1,
+            "name": "nombre"
+        }
+    ],
+    "profile": {
     "name": "typicode"
-},
-"posts":[
-    {
-        "id": 1,
-        "name": "nombre"
     }
-]
 }
