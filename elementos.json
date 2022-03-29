@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Pollo",
+        "descripcion": "El alimento mas nutritivo",
+        "Stock": 5
+    },
+    {
+        "nombre": "Carne",
+        "descripcion": "Que rica la carne",
+        "Stock": 10
+    },{
+        "nombre": "Pescado",
+        "descripcion": "Proteina de los peces",
+        "Stock": 8
+    },{
+        "nombre": "Lechuga",
+        "descripcion": "Verdura con forma de pelota",
+        "Stock": 2
+    },{
+        "nombre": "Tomate",
+        "descripcion": "El vegetal Rojo!",
+        "Stock": 5
+    },{
+        "nombre": "Cilantro",
+        "descripcion": "Para la sopa :)",
+        "Stock": 1
+    },{
+        "nombre": "Huevos",
+        "descripcion": "Basicos de la canasta familiar",
+        "Stock": 5
+    },{
+        "nombre": "Pan",
+        "descripcion": "Para acompañar todas tus comidas",
+        "Stock": 20
+    },{
+        "nombre": "Escarcha",
+        "descripcion": "Para decorar cosas UwU",
+        "Stock": 3
+    },{
+        "nombre": "Pintura",
+        "descripcion": "Lo mas divertido para expresar tu creatividad",
+        "Stock": 5
+    }
+]
