@@ -13,50 +13,50 @@
             "Stock": 5
         },
         {
-            "id": 2,
-            "nombre": "Pollo",
+            "id": 3,
+            "nombre": "Arroz",
+            "descripcion": "Carbohidrato blanco",
+            "Stock": 50
+        },
+        {
+            "id": 4,
+            "nombre": "Pizza",
             "descripcion": "El alimento mas nutritivo",
             "Stock": 5
         },
         {
-            "id": 2,
-            "nombre": "Pollo",
+            "id": 5,
+            "nombre": "Jengibre",
             "descripcion": "El alimento mas nutritivo",
             "Stock": 5
         },
         {
-            "id": 2,
-            "nombre": "Pollo",
+            "id": 6,
+            "nombre": "Agua",
             "descripcion": "El alimento mas nutritivo",
             "Stock": 5
         },
         {
-            "id": 2,
-            "nombre": "Pollo",
+            "id": 7,
+            "nombre": "Calendula",
             "descripcion": "El alimento mas nutritivo",
             "Stock": 5
         },
         {
-            "id": 2,
-            "nombre": "Pollo",
+            "id": 8,
+            "nombre": "Avena",
             "descripcion": "El alimento mas nutritivo",
             "Stock": 5
         },
         {
-            "id": 2,
-            "nombre": "Pollo",
+            "id": 9,
+            "nombre": "Leche",
             "descripcion": "El alimento mas nutritivo",
             "Stock": 5
         },
         {
-            "id": 2,
-            "nombre": "Pollo",
-            "descripcion": "El alimento mas nutritivo",
-            "Stock": 5
-        },
-        {
-            "id": 2,
-            "nombre": "Pollo",
+            "id": 10,
+            "nombre": "Pan",
             "descripcion": "El alimento mas nutritivo",
             "Stock": 5
         }
