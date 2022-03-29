@@ -1,5 +1,6 @@
 [
-    {"posts": [
+    {
+    "posts": [
         {
             "nombre": "Pollo",
             "descripcion": "El alimento mas nutritivo",
@@ -9,15 +10,18 @@
             "nombre": "Carne",
             "descripcion": "Que rica la carne",
             "Stock": 10
-        },{
+        },
+        {
             "nombre": "Pescado",
             "descripcion": "Proteina de los peces",
             "Stock": 8
-        },{
+        },
+        {
             "nombre": "Lechuga",
             "descripcion": "Verdura con forma de pelota",
             "Stock": 2
-        },{
+        },
+        {
             "nombre": "Tomate",
             "descripcion": "El vegetal Rojo!",
             "Stock": 5
